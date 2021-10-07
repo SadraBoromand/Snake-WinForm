@@ -6,5 +6,5 @@ snake windows form proj
 
 ## Snake WinForm
 - form main
-- form game
+- form game 
 - simple snake game
