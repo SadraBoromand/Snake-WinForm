@@ -1,4 +1,4 @@
-# Snak-WinForm
+# Snake-WinForm
 simple snake game -
 snake windows form proj
 - C#
